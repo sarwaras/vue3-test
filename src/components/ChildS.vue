@@ -1,14 +1,10 @@
 <template>
-  <div>
-    <h2>APP 父级组件</h2>
-  </div>
+  <div></div>
 </template>
 
 <script lang="ts">
 import { defineComponent } from "vue"
-
 export default defineComponent({
-  name: "App",
+  name: "ChildS",
 })
 </script>
-<style></style>
