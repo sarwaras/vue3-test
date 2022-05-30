@@ -109,6 +109,9 @@ export default defineComponent({
 .todo-container {
   width: 600px;
   margin: 0 auto;
+  border: 1px solid #ddd;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 .todo-container .todo-warp {
   padding: 10px;

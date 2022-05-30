@@ -49,7 +49,8 @@ export default defineComponent({
   height: 25px;
   font-size: 14px;
   border: 1px solid #ccc;
-  border-radius: 4px;
+  border-radius: 12px;
+  background-color: aquamarine;
 }
 .todo-header input:focus {
   outline: none;
